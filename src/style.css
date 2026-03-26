@@ -1,7 +1,25 @@
 h1 {
-  color: hotpink;
+  color: rgb(105, 255, 143);
   font-family: cursive;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+.box{
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .input{
     border-width: 5px;
+    padding: 10px 5px;
+    border-radius: 10px;
+}
+.btn{
+  padding: 10px 5px;
+  color: wheat;
+  background-color: teal;
+  margin-left: 30px;
+  border-radius: 10px;
+  font-size: 21px;
 }
