@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/SviatoslavFedosiuk/hwparcel1/issues"
   },
-  "homepage": "https://github.com/SviatoslavFedosiuk/hwparcel1#readme",
+  "homepage": "https://SviatoslavFedosiuk.github.io/hwparcel1/",
   "devDependencies": {
     "parcel": "^2.16.4"
   },
