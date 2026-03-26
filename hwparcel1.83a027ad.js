@@ -1,0 +1,2 @@
+let e=Math.floor(10*Math.random())+1;function r(){e=Math.floor(10*Math.random())+1}let o=document.querySelector(".input");document.querySelector(".btn").addEventListener("click",()=>{let t=Number(o.value);if(0===t){o.style.borderColor="red";return}"correct"==(t===e?(r(),"correct"):(r(),"wrong"))?o.style.borderColor="green":o.style.borderColor="red"});
+//# sourceMappingURL=hwparcel1.83a027ad.js.map
